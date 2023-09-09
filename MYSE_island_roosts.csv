@@ -1,0 +1,232 @@
+Site,Bat ID,Sex,Date,Season,Roost ID,Comments,Roost Type,Details,Structure,DBH (cm),decay stage,roost height (ft),tree height (ft),Densometer
+LI,333_2014,NA,8/20/2014,Summer,333_2014-R1,presumed under raised roof cap/shingles,Anthro,Roof,shingle,NA,NA,20,NA,NA
+LI,304_2016,1,7/7/2016,Summer,MortonNWR-PR,plastic casing of telephone pole,Anthro,telephone pole,cavity,NA,NA,NA,NA,NA
+LI,LI03_17,1,11/2/2017,Fall,Sished,rakeboard on shed,Anthro,Shed,rakeboard,NA,NA,NA,NA,NA
+LI,V03_18,1,5/22/2018,Summer,WIFLTR4-18,bat house,Anthro,Bat House,cavity,NA,NA,15,15,62.82
+LI,V05_18,1,5/24/2018,Summer,WIFLTR6-18,cavity,Anthro,telephone pole,cavity,29,5,15,23,0.16
+LI,V02_19,1,6/22/2019,Summer,WIFL19-R3,"cavity, 7 and 9 bats from emergence counts",Anthro,telephone pole,cavity,29.7,NA,9,29,75.04
+LI,W04_19,1,8/5/2019,Summer,AR1-MYSE1-R1,crevice/crack in utility pole,Anthro,telephone pole,crevice/crack,23,5,4.9,26,0
+LI,LI06_19,2,11/14/2019,Fall,AL03,,Anthro,culvert,cavity,NA,NA,NA,NA,NA
+LI,LI01_19,2,11/22/2019,Fall,MARIO02,"house on 27, in chimney or shingles, final location in this house likely crawlspace/chimney hiber but bounced around quite a bit first",Anthro,House,unk,NA,NA,NA,NA,NA
+LI,19_2014,1,7/31/2014,Summer,19_2014-R1,"Scarlet Oak, cavity",Tree,Oak,cavity,15.2,3,15,20,NA
+LI,944_2014,1,8/4/2014,Summer,944_2014-R1,"Scarlet Oak, bark",Tree,Oak,bark,13.3,3,10,15,NA
+LI,944_2014,1,8/5/2014,Summer,944_2014-R2,"Scarlet Oak, presumed cavity",Tree,Oak,cavity,17.8,3,10,20,NA
+LI,944_2014,1,8/6/2014,Summer,944_2014-R3,"Scarlet Oak, presumed bark",Tree,Oak,bark,24.1,3,NA,30,NA
+LI,19_2014,1,8/6/2014,Summer,19_2014-R2,"White Oak, unknown roost location",Tree,Oak,unk,40.6,2,NA,60,NA
+LI,747_2014,NA,8/14/2014,Summer,747_2014-R1,unknown roost location,Tree,Black Locust,unk,11.4,3,NA,30,NA
+LI,291_2014,NA,8/14/2014,Summer,291_2014-R1,"Black Cherry, couldn’t get close enough, not entirely sure its correct tree",Tree,Other,unk,50.8,1,NA,40,NA
+LI,291_2014,NA,8/18/2014,Summer,291_2014-R2,crevice on tree trunk,Tree,Black Locust,crevice/crack,7.6,3,5,30,NA
+LI,747_2014,NA,8/20/2014,Summer,747_2014-R2,unknown roost location,Tree,Black Locust,unk,25.4,3,NA,80,NA
+LI,747_2014,NA,8/21/2014,Summer,747_2014-R3,unknown roost location,Tree,Black Locust,unk,15.2,1,NA,40,NA
+LI,291_2014,NA,8/22/2014,Summer,291_2014-R3,bark shingle,Tree,Black Locust,bark,8.3,3,6,20,NA
+LI,747_2014,NA,8/22/2014,Summer,747_2014-R4,unknown roost location,Tree,Black Locust,unk,10.2,3,NA,20,NA
+LI,680_2014,1,9/23/2014,Fall,680_2014-R1,presumed cavity,Tree,Sassafras,cavity,10.2,2,NA,45,NA
+LI,680_2014,1,9/25/2014,Fall,680_2014-R2,presumed bark,Tree,Sassafras,bark,17.8,3,NA,45,NA
+LI,203_2014,NA,9/29/2014,Fall,203_2014-R1,"bark, emergence count",Tree,Black Locust,bark,14.6,2,7,35,NA
+LI,203_2014,NA,10/3/2014,Fall,203_2014-R2,"Red Oak, bark, emergence count done",Tree,Oak,bark,30.5,4,10,30,NA
+LI,203_2014,NA,10/6/2014,Fall,203_2014-R3,presumed cavity,Tree,Black Locust,cavity,17.8,3,NA,35,NA
+LI,203_2014,NA,10/7/2014,Fall,203_2014-R4,presumed cavity,Tree,Black Locust,cavity,8.3,3,NA,20,NA
+LI,203_2014,NA,10/10/2014,Fall,203_2014-R5,"White Oak, bark shingle",Tree,Oak,bark,30.5,4,8,40,NA
+LI,RRR032,1,7/2/2015,Summer,T020,broken branch peeling bark,Tree,Black Locust,branch,NA,1,14.8,NA,70
+LI,430_2016,1,6/30/2016,Summer,WNWR201601,cervice,Tree,Red Maple,crevice/crack,27,1,14.8,32.8,NA
+LI,430_2016,1,7/1/2016,Summer,WNWR201602,bark,Tree,Red Maple,bark,43,1,49.2,65.6,NA
+LI,LI01_17,2,10/19/2017,Fall,BaNeSS,Oak spp. ,Tree,Oak,NA,21.6,4,NA,NA,NA
+LI,LI03_17,1,10/19/2017,Fall,BaNeTS,Oak spp. ,Tree,Oak,NA,25.7,2,NA,NA,NA
+LI,LI02_17,2,10/19/2017,Fall,BaNeLS,Oak spp. ,Tree,Oak,NA,26.7,1,NA,NA,NA
+LI,LI04_17,1,10/19/2017,Fall,BaNeFS,Oak spp. ,Tree,Oak,NA,26.7,3,NA,NA,NA
+LI,LI01_17,2,10/20/2017,Fall,BaNeHS,,Tree,Sassafras,NA,13.4,1,NA,NA,NA
+LI,LI05_17,1,10/20/2017,Fall,BaNeCS,,Tree,Sassafras,NA,14.4,1,NA,NA,NA
+LI,LI03_17,1,10/20/2017,Fall,BaNeTS2,,Tree,Sassafras,NA,20.5,1,NA,NA,NA
+LI,LI02_17,2,10/21/2017,Fall,BaNeDT,Chestnut Oak,Tree,Oak,NA,7.3,1,NA,NA,NA
+LI,LI04_17,1,10/21/2017,Fall,BaNeTO,Red Oak,Tree,Oak,NA,14.4,1,NA,NA,NA
+LI,LI05_17,1,10/21/2017,Fall,BaNeFO,Oak spp.,Tree,Oak,NA,NA,1,NA,NA,NA
+LI,LI03_17,1,10/26/2017,Fall,MashM,,Tree,Red Maple,NA,NA,NA,NA,NA,NA
+LI,72400,1,5/20/2018,Summer,WIFLTR1-18,"Red Oak, cavity",Tree,Oak,cavity,12,1,6.5,30,98.44
+LI,72401,1,5/20/2018,Summer,WIFLTR2-18,bark roost,Tree,Red Maple,bark,16.1,4,5,18,98.96
+LI,72401,1,5/21/2018,Summer,WIFLTR3-18,cavity,Tree,unk,cavity,16.4,6,4,12,93.5
+LI,V03_18,1,5/24/2018,Summer,WIFLTR5-18,cavity,Tree,Black Locust,cavity,28,2,18,30,86.74
+LI,72406,1,6/14/2018,Summer,WIFLTR13-18,cavity,Tree,Black Locust,cavity,12.7,4,9,20,98.96
+LI,72409,1,6/14/2018,Summer,WIFLTR11-18,cavity/bark,Tree,Black Locust,cavity/bark,13.6,4,15,27,98.96
+LI,V09_18,1,6/14/2018,Summer,WIFLTR7-18,cavity,Tree,Black Locust,cavity,14.1,3,5,19,99.22
+LI,72411,1,6/14/2018,Summer,WIFLTR12-18,cavity,Tree,Black Locust,cavity,18,2,15,23,81.28
+LI,72407,1,6/14/2018,Summer,WIFLTR10-18,cavity,Tree,Red Maple,cavity,21.4,2,20,30,90.38
+LI,72407,1,6/15/2018,Summer,WIFLTR9-18,cavity/bark,Tree,Red Maple,cavity/bark,13.5,6,10,13,57.1
+LI,72406,1,6/15/2018,Summer,WIFLTR14-18,cavity/bark,Tree,Black Locust,cavity/bark,14.4,3,11,21,96.1
+LI,V03_18,1,6/15/2018,Summer,WIFLTR8-18,cavity,Tree,Black Locust,cavity,17.4,2,16,30,92.2
+LI,RRR034,1,6/17/2018,Summer,WIFLTR16-18,cavity,Tree,Black Locust,cavity,12.2,4,4,23,98.7
+LI,72413,1,6/17/2018,Summer,WIFLTR15-18,"cavity, bat originally tagged in 2015",Tree,Black Locust,cavity,13,6,12,13,28.5
+LI,72413,1,6/17/2018,Summer,WIFLTR17-18,cavity/bark,Tree,Black Locust,cavity/bark,16.2,3,15,20,64.9
+LI,RRR034,1,6/18/2018,Summer,WIFLTR18-18,cavity/bark,Tree,Black Locust,cavity/bark,13.2,3,18,33,82.58
+LI,72407,1,6/18/2018,Summer,WIFLTR19-18,"Hickory, cavity",Tree,Other,cavity,31.6,1,15,40,97.94
+LI,72413,1,6/19/2018,Summer,WIFLTR21-18,cavity,Tree,Black Locust,cavity,9.1,4,10,18,97.92
+LI,RRR034,1,6/19/2018,Summer,WIFLTR20-18,cavity,Tree,Black Locust,cavity,18.8,4,15,22,98.7
+LI,LI01_18,2,11/2/2018,Fall,Fall18HH_1,Oak spp. large tree with many potential roost spots - bat hotel - seemed like it was coming from dead right trunk,Tree,Oak,cavity,34,2,10,18,93.8
+LI,LI01_18,2,11/3/2018,Fall,Fall18HH_2,"Oak spp. relatively same patch of forest, but deeper from edge, nice cavity with sun exposure",Tree,Oak,cavity,NA,NA,NA,NA,NA
+LI,LI02_18,1,11/11/2018,Fall,Fall18HH_3,"marsh roost snag, either branch or cavity roost",Tree,unk,unk,25.9,3,12,15,82.8
+LI,LI01_18,2,11/12/2018,Fall,Fall18HH_4,"Oak spp, double tree roost",Tree,Oak,cavity,35.6,1,9,45,92.2
+LI,LI03_18,2,11/13/2018,Fall,Fall18HH_5,"Oak spp. confirmed roost near railroad, live tree with bark/dead limb crevice",Tree,Oak,branch,59.9,1,15,45,86.5
+LI,LI02_18,1,11/14/2018,Fall,Fall18HH_6,small cavity tree on pond side of railroad,Tree,Red Maple,cavity,10.5,1,3,25,93.7
+LI,LI02_18,1,11/15/2018,Fall,Fall18HH_7,"Oak spp. second cavity tree on pond side, opening low to ground, confirmed with camera",Tree,Oak,cavity,12.1,1,2,27,95.3
+LI,72414,1,5/20/2019,Summer,WIFL19-R1,"White Oak, cavity",Tree,Oak,cavity,39.8,1,20,72,99.74
+LI,V03_19,1,6/25/2019,Summer,WIFL19-R4,"cavity in snag, unknown species",Tree,unk,cavity,NA,6,17,35,NA
+LI,V03_19,1,6/26/2019,Summer,WIFL19-R5,Persimmon,Tree,Other,cavity,48.1,1,46,81,98.7
+LI,V03_19,1,6/27/2019,Summer,WIFL19-R6,cavity in snag,Tree,Black Locust,cavity,20.9,6,28,36,96.62
+LI,W03_19,1,7/30/2019,Summer,AO1-MYSE3-R1,"Witch Hazel, crevice/crack in live tree",Tree,Other,crevice/crack,9.5,1,9.8,14.8,85
+LI,W01_19,2,7/30/2019,Summer,AO1-MYSE2-R1,"Red Oak, crevice/crack in live tree",Tree,Oak,crevice/crack,38.3,1,85,102,100
+LI,W02_19,1,7/30/2019,Summer,AO1-MYSE1-R1,crevice/crack in live tree,Tree,Beech,crevice/crack,38.5,2,95,95,98
+LI,V06_19,2,7/30/2019,Summer,WIFL19-R8,cavity,Tree,Tupelo,cavity,67,1,46,81,98.7
+LI,W03_19,1,7/31/2019,Summer,AO1-MYSE3-R2,crevice/crack in dead tree,Tree,Sassafras,crevice/crack,10,6,3.3,6.6,20
+LI,W01_19,2,7/31/2019,Summer,AO1-MYSE2-R2,exfoliating bark on live tree,Tree,Red Maple,bark,45.5,2,49.2,59.1,50
+LI,V06_19,2,7/31/2019,Summer,WIFL19-R9,cavity,Tree,Tupelo,cavity,49.7,1,19,57.5,97.4
+LI,W03_19,1,8/1/2019,Summer,AO1-MYSE3-R3,cavity in dead tree,Tree,Sassafras,cavity,9.5,6,8.2,9.8,25
+LI,72418,2,8/1/2019,Summer,WIFL19-R10,cavity/bark in snag,Tree,unk,cavity/bark,13,5,4,25,99.22
+LI,W01_19,2,8/1/2019,Summer,AO1-MYSE2-R3,Black Oak - live tree,Tree,Oak,unk,35,1,NA,66,90
+LI,W06_19,2,8/3/2019,Summer,MP1-MYSE1-R1,"Black Cherry, cavity in live tree",Tree,Other,cavity,17,2,23,32.8,50
+LI,W04_19,1,8/9/2019,Summer,AR1-MYSE1-R2,cavity in dead tree,Tree,Red Maple,cavity,6,4,3.3,18,100
+LI,LI01_19,2,10/19/2019,Fall,MARIO01,"right of trail just before boardwalk intersection, roost appears to be dead branch hanging from tree",Tree,Red Maple,branch,26.7,1,30,55,92.7
+LI,LI03_19,2,10/25/2019,Fall,TONY01,"cluster of three small snags, never located elsewhere, may have dropped transmitter",Tree,unk,unk,7.9,3,15,30,NA
+LI,LI04_19,2,10/30/2019,Fall,BINO01,"Oak spp. large snag on east side of tracks, now broken",Tree,Oak,cavity,25.9,3,NA,40,94.8
+LI,LI04_19,2,11/1/2019,Fall,BINO02,"Hickory, southwest side of pond, cavity in top of tree? Not many visible roost structures",Tree,Other,unk,23.4,NA,45,50,87.5
+LI,LI06_19,2,11/6/2019,Fall,AL01,"three trunk maple, side shoot with roost is dead ",Tree,Red Maple,cavity,28.3,1,14,35,83.6
+LI,LI06_19,2,11/12/2019,Fall,AL02,"triangulated signal, dense brush on east side of oyster pond",Tree,unk,unk,NA,NA,NA,NA,NA
+LI,LI06_19,2,11/21/2019,Fall,AL04,"unk tree, east side of oyster pond trail right after first down tree, now has fallen over - roost was in cavity/crack under dead limb",Tree,unk,branch,19.4,3,18,40,89.6
+LI,LI02_19,2,11/22/2019,Fall,RAF01,"small hole in tree midway up, open to wetland to the south",Tree,Red Maple,cavity,10.2,1,22,45,58
+LI,LI02_19,2,11/24/2019,Fall,RAF02,"open to wetland on west side, live tree but broken top",Tree,Red Maple,cavity,8.7,1,31,36,92
+LI,S01_20,2,8/1/2020,Summer,Stantec-RT-01,cavity,Tree,Tupelo,cavity,13.97,2,35,40,60
+LI,S02_20,2,8/13/2020,Summer,Stantec-RT-02,bark,Tree,Tupelo,bark,17.78,2,30,50,70
+LI,S02_20,2,8/14/2020,Summer,Stantec-RT-03,bark,Tree,Black Locust,bark,20.32,3,25,50,80
+LI,S01_20,2,8/15/2020,Summer,Stantec-RT-04,crevice,Tree,Black Locust,crevice/crack,27.94,6,11,11,20
+LI,52559,2,5/27/2021,Summer,WIFL2021R1,,Tree,unk,cavity,12.2,4,18,24.5,92.5
+LI,52559,2,5/28/2021,Summer,WIFL2021R2,,Tree,unk,cavity,8.2,3,7.5,15,95.8
+LI,52559,2,5/29/2021,Summer,WIFL2021R3,,Tree,unk,cavity,14.5,4,NA,34.5,96.6
+LI,52558,2,6/1/2021,Summer,WIFL2021R4,,Tree,Red Maple,cavity,13,1,2,40,96.92
+LI,52558,2,6/2/2021,Summer,WIFL2021R5,,Tree,unk,cavity,18.5,3,NA,29.5,95.3
+LI,52558,2,6/3/2021,Summer,WIFL2021R6,,Tree,Black Locust,cavity,16,2,NA,37.5,85.4
+LI,52557,1,6/3/2021,Summer,WIFL2021R7,,Tree,Red Maple,cavity,28.8,1,8,50,96.1
+LI,52557,1,6/4/2021,Summer,WIFL2021R8,,Tree,Red Maple,cavity,38.5,1,NA,70,96.1
+LI,52559,2,6/23/2021,Summer,WIFL2021R9,,Tree,Black Locust,cavity,13.3,4,NA,19.5,96.1
+MV,255MV_2015,1,6/4/2015,Summer,RT04-15,under clapboard or gutter,Anthro,House,unk,NA,NA,20,NA,NA
+MV,248MV_2015,1,6/5/2015,Summer,RT07-15,"on south side of old shed, roof edge, ac unit or inside shed",Anthro,Shed,unk,NA,NA,9,NA,NA
+MV,255MV_2015,1,6/7/2015,Summer,RT09-15,"Becker house, roof eaves or chimney? - confirmed next year bats come out of attic vent under rakeboar",Anthro,House,vent,NA,NA,20,NA,NA
+MV,248MV_2015,1,6/8/2015,Summer,RT10-15,somewhere on the barn?,Anthro,Barn,barn,NA,NA,10,NA,NA
+MV,252MV_2015,1,6/16/2015,Summer,RT14-15,"Krakow house, under rakeboard by solar panel",Anthro,House,rakeboard,NA,NA,17,NA,NA
+MV,252MV_2015,1,6/17/2015,Summer,RT15-15,"Friedman house, under trim12 - 15 ft up under clapboard. 15 bats emerged at dusk",Anthro,House,rakeboard,NA,NA,13,NA,NA
+MV,255BMV_2015,1,6/25/2015,Summer,RT18-15,"Carol house, christmas hill lane - under trim board or attic vent, house has cedar shingles",Anthro,House,vent,NA,NA,17,NA,NA
+MV,266MV_2015,1,6/29/2015,Summer,RT23-15,roof edge of garage on south side,Anthro,Garage,roof,NA,NA,NA,NA,NA
+MV,282MV_2015,1,9/4/2015,Fall,FMBRT01,"Cullen house, rakeboard on house",Anthro,House,rakeboard,NA,NA,30,NA,NA
+MV,282MV_2015,1,9/5/2015,Fall,FMBRT02,"Davies house, rakeboard on house",Anthro,House,rakeboard,NA,NA,13,NA,NA
+MV,282MV_2015,1,9/6/2015,Fall,FMBRT03,"Davies house, attic vent or rakeboard",Anthro,Garage,rakeboard,NA,NA,NA,NA,NA
+MV,282MV_2015,1,9/7/2015,Fall,FMBRT04,"Davies house, different rakeboard roost on house",Anthro,House,rakeboard,NA,NA,12,NA,NA
+MV,285MV_2015,1,9/20/2015,Fall,RTMC01,cavity in bird next box,Anthro,Bird Box,cavity,NA,NA,8,8,NA
+MV,285MV_2015,1,9/22/2015,Fall,RTMC03,"Gus Ben David, rakeboard or attic vent on house (coming from attic eaves)",Anthro,House,unk,NA,NA,NA,NA,NA
+MV,285MV_2015,1,9/25/2015,Fall,RTMC04,"Gus Ben David, between wall of shed?",Anthro,Shed,shed,NA,NA,NA,NA,NA
+MV,277MV_2016,1,7/6/2016,Summer,RT09-15,"Becker House - confirmed house attic vent, bats come out under rakeboard",Anthro,House,vent,NA,NA,20,NA,NA
+MV,277MV_2016,1,7/14/2016,Summer,CA_RT28,Hay barn at Pilot Hill Farm. In center of building either under beams or under shingles. ,Anthro,Barn,barn,NA,NA,17,NA,NA
+MV,280BMV_2016,1,7/14/2016,Summer,MC_RT06,Ziffs/Ice Pond Lane,Anthro,House,unk,NA,NA,NA,NA,NA
+MV,280BMV_2016,1,7/15/2016,Summer,MC_RT07,Nussbaum roost,Anthro,House,rakeboard,NA,NA,10,26,77.64
+MV,284BMV_2016,1,7/20/2016,Summer,MC_RT08,Foster house- rakeboard or attic vent on house,Anthro,House,rakeboard,NA,NA,21,22,100
+MV,MV01_18,2,10/25/2018,Fall,GZRT03,,Anthro,telephone pole,cavity,NA,NA,15,NA,48
+MV,MV01_18,2,10/28/2018,Fall,GZRT04,,Anthro,House,vent,NA,NA,20,NA,NA
+MV,255MV_2015,1,6/3/2015,Summer,RT02-15,"some dead limbs, knots, as potential roosts (5 trunks - dbh is avg)",Tree,Red Maple,branch,18.1,1,NA,40,85.96
+MV,248MV_2015,1,6/3/2015,Summer,RT03-15,"likely cavity, three trunk tree",Tree,Red Maple,cavity,27.7,2,NA,35,70.1
+MV,252MV_2015,1,6/3/2015,Summer,RT01-15,"White Oak, unknown roost type, estimated over 30ft",Tree,Oak,unk,46.6,1,30,55,84.4
+MV,252MV_2015,1,6/4/2015,Summer,RT05-15,"Red Oak, unknown roost type",Tree,Oak,unk,25.3,4,NA,45,62.56
+MV,248MV_2015,1,6/4/2015,Summer,RT06-15,"not quite declining, may be in poor shape due to flooding, in swamp",Tree,Red Maple,unk,25.8,1,NA,35,88.82
+MV,248MV_2015,1,6/6/2015,Summer,RT08-15,cavity,Tree,Tupelo,cavity,33.5,1,17,55,75.73
+MV,252MV_2015,1,6/9/2015,Summer,RT11-15,in dead limb or loose bark,Tree,Tupelo,branch,18,3,17,30,72.96
+MV,252MV_2015,1,6/11/2015,Summer,RT12-15,"multi-trunk red maple, cavity roost",Tree,Red Maple,cavity,12.6,1,11,35,NA
+MV,252MV_2015,1,6/12/2015,Summer,RT13-15,"Black Oak - bark, no cavities evident",Tree,Oak,bark,26.5,2,NA,40,79.98
+MV,252MV_2015,1,6/19/2015,Summer,RT16-15,"unknown spot, high up in branches",Tree,PINRIG,unk,25.9,1,NA,50,76.08
+MV,248BMV_2015,1,6/25/2015,Summer,RT17-15,several good cavities,Tree,Black Locust,cavity,30.6,2,25,45,72.96
+MV,255BMV_2015,1,6/27/2015,Summer,RT19-15,in pilot hill loose bark is likely roost ,Tree,PINRIG,bark,17,4,NA,30,63.86
+MV,255BMV_2015,1,6/28/2015,Summer,RT22-15,"Oak spp. many dead oaks in area, either cavity or bark roost",Tree,Oak,cavity,25.4,4,NA,25,63.34
+MV,248BMV_2015,1,6/28/2015,Summer,RT21-15,"cavity roost, bent tree, adjacent to vernal pool type wet area and ~ 20m from open pasture",Tree,Red Maple,cavity,29.3,1,NA,35,70.1
+MV,253MV_2015,1,6/28/2015,Summer,RT20-15,unknown roost spot,Tree,Sassafras,unk,35.1,1,NA,55,76.86
+MV,255BMV_2015,1,6/29/2015,Summer,RT24-15,"Black Oak - one other bat emerged at dusk, bark roost",Tree,Oak,bark,18.8,2,15,37,81.54
+MV,256BMV_2015,1,7/21/2015,Summer,RTJN01,"Red Oak,snag with bark roost",Tree,Oak,bark,14.6,6,6,8,84.66
+MV,256BMV_2015,1,7/22/2015,Summer,RTJN02,"White Oak, unknown roost spot in snag",Tree,Oak,unk,15.8,3,12,20,85.18
+MV,256BMV_2015,1,7/23/2015,Summer,RTJN03,"White Oak, cavity in snag",Tree,Oak,cavity,13.8,3,7,18,87.52
+MV,282MV_2015,1,9/8/2015,Fall,FMBRT05,unknown roost spot,Tree,Red Maple,unk,91.5,2,NA,60,97.4
+MV,282MV_2015,1,9/18/2015,Fall,FMBRT06,cavity on beech - found dropped tag here next day,Tree,Beech,cavity,24,2,9,30,94.8
+MV,285MV_2015,1,9/21/2015,Fall,RTMC02,Black Oak - cavity,Tree,Oak,cavity,18.6,2,8,25,90.9
+MV,285MV_2015,1,9/30/2015,Fall,RTMC05,"White Oak, cavity in tiny tree",Tree,Oak,cavity,7.2,1,4.5,15,96.1
+MV,284MV_2016,1,7/7/2016,Summer,CA_RT25,Black Oak - cavity or bark,Tree,Oak,cavity/bark,24,2,11,46,62.04
+MV,277MV_2016,1,7/12/2016,Summer,CA_RT26,no comments,Tree,PINRIG,unk,44.2,3,NA,35,89.86
+MV,279MV_2016,1,7/13/2016,Summer,CA_RT27,"Black Oak - cavity/bark in snag, double trunk below BH",Tree,Oak,cavity/bark,16.1,4,15,20,74.26
+MV,279MV_2016,1,7/14/2016,Summer,CA_RT29,cavity,Tree,Black Locust,cavity,21.8,1,11,37,91.42
+MV,277MV_2016,1,7/15/2016,Summer,CA_RT30,bark roost,Tree,PINRIG,bark,91,1,20,14,73.74
+MV,283MV_2016,1,8/24/2016,Summer,TGP_RT01,Black Oak - bark in snag,Tree,Oak,bark,18.8,4,5,18,15.76
+MV,283MV_2016,1,8/25/2016,Summer,TGP_RT02,Black Oak - cavity in snag,Tree,Oak,cavity,15.3,3,8,25,88.82
+MV,283MV_2016,1,8/27/2016,Summer,TGP_RT03,Black Oak - bark roost,Tree,Oak,bark,13,4,5,15,30.32
+MV,283MV_2016,1,8/30/2016,Summer,TGP_RT04,Black Oak - recovered tag under bark,Tree,Oak,bark,15,4,4,12,62.04
+MV,281MV_2016,1,10/14/2016,Fall,SG-RT01,prob bark roost,Tree,Black Locust,bark,12.5,3,NA,35,78.42
+MV,281MV_2016,1,10/16/2016,Fall,SG-RT02,cavity roost,Tree,Beech,cavity,49,1,15,60,98.96
+MV,281MV_2016,1,10/17/2016,Fall,SG-RT03,"very high in tree, cavity",Tree,Beech,cavity,37.5,1,NA,60,100
+MV,281MV_2016,1,10/18/2016,Fall,SG-RT04,Black Oak - bark roost,Tree,Oak,bark,27.9,2,18,35,94.5
+MV,281MV_2016,1,10/19/2016,Fall,SG-RT05,cavity roost,Tree,Beech,cavity,14.8,1,18,35,100
+MV,281MV_2016,1,10/30/2016,Fall,SG-RT06,cavity roost,Tree,Red Maple,cavity,27.1,1,NA,45,91.68
+MV,281MV_2016,1,11/3/2016,Fall,SG-RT07,cavity roost,Tree,Beech,cavity,44.4,2,30,60,92.46
+MV,MV01_18,2,10/20/2018,Fall,GZRT01A,,Tree,Red Maple,unk,31.1,1,7,45,91
+MV,MV01_18,2,10/21/2018,Fall,GZRT02,Mimosa Tree,Tree,Other,crevice/crack,52.3,2,6.5,33,65.94
+MV,MV01_18,2,10/29/2018,Fall,GZRT05,,Tree,Red Maple,cavity,16,1,40,50,88.04
+MV,MV01_19,2,10/26/2019,Fall,C01,cavity,Tree,Red Maple,cavity,14.8,1,14,30,68.28
+MV,MV01_19,2,10/29/2019,Fall,C02,cavity,Tree,Red Maple,cavity,21.8,1,15,33,73.22
+MV,MV01_19,2,11/10/2019,Fall,C03,cavity,Tree,Red Maple,cavity,37,1,23,35,68.23
+MV,MV01_19,2,11/12/2019,Fall,C04,"White Oak, cavity",Tree,Oak,cavity,44.1,1,24,32,66.22
+MV,MV01_20,1,10/15/2020,Fall,FMB-RT-07,likely in dead limb,Tree,Red Maple,branch,122,2,25,35,87.78
+MV,MV03_20,2,11/8/2020,Fall,TSQM-RT-01,loose bark along the whole tree,Tree,Black Locust,unk,22,4,NA,40,74.52
+N,F024BN_2017,1,7/23/2017,Summer,F024B-R1,suspect under shingle,Anthro,House,shingle,NA,NA,NA,NA,NA
+N,F064N_2017,1,7/23/2017,Summer,F064-R1,unknown - shingle or rakeboard,Anthro,NA,unk,NA,NA,12,NA,NA
+N,F064N_2017,1,7/24/2017,Summer,F064-R2,"signal seems to be coming from front of house or chimney, 4 Millbrook Rd",Anthro,NA,unk,NA,NA,NA,NA,NA
+N,N02_17,1,10/19/2017,Fall,F103-R1,under loose siding board on barn,Anthro,Barn,siding,NA,NA,6.5,NA,NA
+N,N03_17,1,10/19/2017,Fall,F123-R1,likely gap between trim boards,Anthro,House,rakeboard,NA,NA,25,NA,NA
+N,N01_17,2,10/19/2017,Fall,M183-R1,likely under rakeboard,Anthro,House,rakeboard,NA,NA,17,NA,NA
+N,N03_17,1,10/24/2017,Fall,F123-R2,"unknown, bad signal on back of house",Anthro,House,unk,NA,NA,20,NA,NA
+N,N04_18,2,10/21/2018,Fall,M17834-R1,"rakeboard, unknown",Anthro,House,rakeboard,NA,NA,NA,NA,NA
+N,N03_18,1,10/22/2018,Fall,F17833-R1,rakeboard,Anthro,House,rakeboard,NA,NA,20,NA,NA
+N,N03_18,1,10/26/2018,Fall,F17833-R2,rakeboard/under shingle,Anthro,House,rakeboard/shingle,NA,NA,10,NA,NA
+N,N09_18,2,11/2/2018,Fall,M17806-R1,rakeboard/unknown,Anthro,Garage,rakeboard,NA,NA,15,NA,NA
+N,N11_18,2,11/3/2018,Fall,M17810-R2,suspect under rakeboard on shed,Anthro,Shed,rakeboard,NA,NA,15,NA,NA
+N,N11_18,2,11/12/2018,Fall,M17810-R3,appears to be under shingle,Anthro,Roof,shingle,NA,NA,15,NA,NA
+N,N09_19,2,10/25/2019,Fall,17778M_A,above front porch of house under trim board. Very strong signal. Crawl space under house,Anthro,House,rakeboard,NA,NA,12,NA,NA
+N,N10_19,2,10/25/2019,Fall,17779M_A,"front of house, above and to left of front porch",Anthro,House,rakeboard,NA,NA,15,NA,NA
+N,N12_19,2,10/26/2019,Fall,17789M_A,on backside of house,Anthro,House,rakeboard,NA,NA,12,NA,NA
+N,N10_19,2,10/27/2019,Fall,17779M_B,"backside of house, near AC unit. Has crawlspace undernearth",Anthro,House,rakeboard,NA,NA,20,NA,NA
+N,N12_19,2,10/27/2019,Fall,17789M_B,"under rake, right above outdoor shower. End of transmitter antenna visible",Anthro,House,rakeboard,NA,NA,8,NA,NA
+N,N10_19,2,10/30/2019,Fall,17779M_C,"most likely under rake board, stayed in place for two nights",Anthro,House,rakeboard,NA,NA,NA,NA,NA
+N,N12_19,2,11/5/2019,Fall,17789M_C,in peak above the outdoor shower?,Anthro,House,rakeboard,NA,NA,NA,NA,NA
+N,N02_20,1,10/20/2020,Fall,17793A,rakeboard over window on patio,Anthro,House,rakeboard,NA,NA,12,NA,NA
+N,259N_2016,NA,7/13/2016,Summer,259N_2016-R1,"cavity, trunk is split and roost in crack",Tree,PINRIG,cavity,24,4,11,36.1,99.74
+N,259N_2016,1,7/26/2016,Summer,259N_2016-R2,"unknown roost type, hard to tell where bats would emerge from",Tree,PINRIG,unk,45.2,1,NA,18,85.18
+N,F024N_2017,1,7/19/2017,Summer,F024-R1,"cavity - split top, likely hole in trunk",Tree,PINRIG,cavity,29.8,6,19.7,19.7,NA
+N,F024N_2017,1,7/20/2017,Summer,F024-R2,bark roost,Tree,PINRIG,bark,30,6,4.9,24.6,0
+N,F043N_2017,1,7/21/2017,Summer,F043-R1,"live pitch pine with several dead branches, covered in poison ivy, signal strength on north side of tree, but exact roost unknown",Tree,PINRIG,branch,30,1,NA,39.4,30
+N,F083N_2017,1,7/22/2017,Summer,F083-R1,"unknown - possible cavity, split fallen limb has many potential roosts",Tree,PINRIG,cavity,34.6,3,NA,32.8,55
+N,F043BN_2017,1,7/23/2017,Summer,F043B-R1,unknown - large split branch with possible crack,Tree,PINRIG,branch,40.3,1,NA,29.5,75
+N,F043BN_2017,1,7/24/2017,Summer,F043B-R2,unknown,Tree,PINRIG,unk,41.2,1,NA,36.1,65
+N,N02_17,1,10/27/2017,Fall,F103-R2,suspect cavity where limb is broken,Tree,PINRIG,branch,35.5,1,NA,10,NA
+N,N02_18,1,10/21/2018,Fall,F17832-R1,bark,Tree,PINRIG,bark,128,4,7,18,NA
+N,N10_18,2,11/2/2018,Fall,M17808-R1,bark,Tree,PINRIG,bark,56,3,5.55,20,NA
+N,N11_18,2,11/2/2018,Fall,M17810-R1,bark,Tree,PINRIG,bark,60,4,8,17,NA
+N,N08_18,2,11/2/2018,Fall,M17807-R1,cavity/unknown,Tree,PINRIG,cavity,96,2,7.5,25,NA
+N,N12_18,1,11/2/2018,Fall,F17809-R1,bark/unknown,Tree,PINRIG,bark,98.5,4,8,18,NA
+N,N08_19,1,10/25/2019,Fall,17764F_A,"Visual on bat under bark, pics taken",Tree,PINRIG,bark,24.8,4,5,10,NA
+N,N11_19,1,10/26/2019,Fall,17791F_A,"fairly sure this is the correct tree, 2 others that are very close that are possible",Tree,PINRIG,bark,30.9,1,6.5,35,NA
+N,N08_19,1,10/26/2019,Fall,17764F_B,"3 large PINRIG right next to each other, lots of signal bounce, unsure of exactly which one. All similarly sized. Measurements are from best guess",Tree,PINRIG,bark,46.5,1,NA,50,NA
+N,N08_19,1,10/28/2019,Fall,17764F_C,near summer 2017 maternity roost tree,Tree,PINRIG,bark,27.5,4,8,13,NA
+N,N08_19,1,10/30/2019,Fall,17764F_D,unsure exactly where bat is roosting,Tree,PINRIG,unk,32.3,1,NA,25,NA
+N,N11_19,1,10/30/2019,Fall,17791F_B,"~20m from original roost. Snag, broken top, largely still covered in bark and toxrad",Tree,PINRIG,bark,35.8,4,NA,15,NA
+N,N08_19,1,11/6/2019,Fall,17764F_E,no details,Tree,PINRIG,unk,NA,NA,NA,NA,NA
+N,N15_19,1,11/7/2019,Fall,17966F_A,"broken top PINRIG, top is clear of bark",Tree,PINRIG,bark,25.6,4,8,10,NA
+N,N15_19,1,11/8/2019,Fall,17966F_B,"very close to the original roost, signal very bouncy, seems high up in tree.",Tree,PINRIG,bark,42.5,1,NA,30,NA
+N,N19_19,1,11/12/2019,Fall,17796F_A,very close to capture location,Tree,PINRIG,unk,38,3,NA,14,NA
+N,N19_19,1,11/19/2019,Fall,17796F_B,"unsure of exact location in tree but strongest signal on SW side of tree where there is a large split from fallen brahch. Very large, live pitch pine.",Tree,PINRIG,crevice/crack,66.5,1,NA,40,NA
+N,N01_20,2,10/20/2020,Fall,17795A,,Tree,PINRIG,bark,43,4,8,16,NA
+N,N03_20,1,10/22/2020,Fall,17780A,presumed under bark,Tree,PINRIG,bark,50.5,1,NA,24,NA
+N,N04_20,1,10/22/2020,Fall,17965A,"signal weak, likely broken antenna",Tree,PINRIG,unk,NA,NA,NA,NA,NA
+N,N07_20,1,10/24/2020,Fall,17958A,,Tree,Red Maple,cavity,47,1,10,18,NA
+N,N08_20,2,10/25/2020,Fall,17964A,,Tree,Red Maple,cavity,33,1,15,25,NA
+N,N03_20,1,10/25/2020,Fall,17780B,signal seems strongest coming from high up ~20ft on NW side of tree - crack present,Tree,PINRIG,crevice/crack,41.5,1,20,28,NA
+N,N08_20,2,10/27/2020,Fall,17964B,,Tree,Red Maple,cavity,84.8,1,NA,25,NA
+N,N09_20,1,10/27/2020,Fall,17955A,"in swamp, cant get close",Tree,PINRIG,unk,NA,1,NA,NA,NA
+N,N07_20,1,11/1/2020,Fall,17958B,,Tree,Tupelo,cavity,28.5,1,15,30,NA
